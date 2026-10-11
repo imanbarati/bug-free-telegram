@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Broad historical/political presence references",
+    "scope": "Non-operational"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "irgc-iran",
+      "properties": {
+        "group": "irgc",
+        "name": "Islamic Revolutionary Guard Corps",
+        "short_name": "IRGC",
+        "country": "Iran",
+        "reference_type": "country-level organizational reference",
+        "period": "historical / contemporary",
+        "description": "Broad national organizational reference; intentionally not a facility or operational location.",
+        "source": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "houthis-yemen",
+      "properties": {
+        "group": "houthis",
+        "name": "Houthis / Ansar Allah",
+        "short_name": "Houthis",
+        "country": "Yemen",
+        "reference_type": "country-level political/territorial reference",
+        "period": "historical / contemporary",
+        "description": "Broad political/territorial reference; intentionally not a stronghold or military position.",
+        "source": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2075,
+          15.3694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hezbollah-lebanon",
+      "properties": {
+        "group": "hezbollah",
+        "name": "Hezbollah",
+        "short_name": "Hezbollah",
+        "country": "Lebanon",
+        "reference_type": "country-level political/social reference",
+        "period": "historical / contemporary",
+        "description": "Broad political/social reference; intentionally not a facility or operational location.",
+        "source": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5018,
+          33.8938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pmf-iraq",
+      "properties": {
+        "group": "pmf",
+        "name": "Popular Mobilization Forces",
+        "short_name": "PMF / Hashd al-Sha'bi",
+        "country": "Iraq",
+        "reference_type": "country-level institutional reference",
+        "period": "historical / contemporary",
+        "description": "Broad institutional reference; intentionally not a base, deployment, or operational location.",
+        "source": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3661,
+          33.3152
+        ]
+      }
+    }
+  ]
+}
